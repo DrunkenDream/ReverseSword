@@ -13,3 +13,6 @@ ReverseSword 注入器（逆向利刃）​ 是一个面向安全研究与逆向
 机器信息：厂商 / 型号 / 虚拟化只在启动后查询一次，不重复通讯。\
 声明：本项目仅供在合法授权范围内进行安全逆向技术交流，请勿用于任何非法行为。
 
+UI图如下：
+<img width="1560" height="1348" alt="image" src="https://github.com/user-attachments/assets/5b79f259-3475-4cf6-927e-d3595cfadb6f" />
+
