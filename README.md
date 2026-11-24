@@ -14,9 +14,8 @@ ReverseSword 注入器（逆向利刃）​ 是一个面向安全研究与逆向
 声明：本项目仅供在合法授权范围内进行安全逆向技术交流，请勿用于任何非法行为。
 
 # UI图如下：
-# 进程列表
+# 进程列表  窗口|线程|模块信息展示 进程内存  内核内存  PDB解析  虚拟化级注入  加载驱动
 <img width="1560" height="1348" alt="image" src="https://github.com/user-attachments/assets/5b79f259-3475-4cf6-927e-d3595cfadb6f" />
-# 窗口|模块|线程信息
 <img width="1559" height="1350" alt="image" src="https://github.com/user-attachments/assets/75c1272d-8a40-4063-b863-36ff897ad8b3" />
 <img width="1560" height="1344" alt="image" src="https://github.com/user-attachments/assets/28c9cae3-c532-4e25-9dee-35798b39bc92" />
 <img width="1561" height="1496" alt="image" src="https://github.com/user-attachments/assets/0063aec0-1705-48c7-b489-f915cbb03855" />
